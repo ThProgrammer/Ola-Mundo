@@ -3,4 +3,4 @@
 
  Repositório criado para se familiarizar com Git e GitHub.
 
- Testando recursos do site, da pra editar arquivos no repositório central!
+ Testando recursos do site
